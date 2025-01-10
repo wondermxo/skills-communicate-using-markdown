@@ -2,6 +2,8 @@
 ## Testing the headers 2
 ### Testing the headers 3
 #### Testing headers 4
+##### Testing headers 5
+###### Testing headers 6
 <header>
 
 <!--
