@@ -13,3 +13,7 @@ print("Your name is : ", name)
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] Create Github
+- [ ] Study Github and Git
+- [ ] Complete Github exercises
